@@ -1,5 +1,17 @@
 # Accademics of Syeda Ismat Farjana
 
+
+### DIPLOMA OF INFORMATION TECHNOLOGY
+#### Official Transcript Diploma of AIT
+- [Link to Transcript of  Diploma of AIT](https://github.com/ismatfarjana/academic_documents/blob/main/Transcript_Diploma_of_Information_Technology%20copy.pdf)
+
+#### Cerificate of Diploma of AIT
+- [Link to Cerificate](https://github.com/ismatfarjana/academic_documents/blob/main/Certificate_Diploma_of_Information_Technology%20copy.pdf)
+
+
+
+---
+
 ### BACHELOR DEGREE ON MEDICINE AND SURGERY
 #### Official Transcripts of Medical Professional examinations
 - [Link to all academic transcrips of Medical Professional examinations](https://github.com/ismatfarjana/academic_documents/blob/main/All_Medical_transcripts_.pdf)
@@ -14,16 +26,6 @@ Faridpur Medical Collage Hospital, Bangladesh
 
 ---
 
-### DIPLOMA OF INFORMATION TECHNOLOGY
-#### Official Transcript Diploma of AIT
-- [Link to Transcript of  Diploma of AIT](https://github.com/ismatfarjana/academic_documents/blob/main/Transcript_Diploma_of_Information_Technology%20copy.pdf)
-
-#### Cerificate of Diploma of AIT
-- [Link to Cerificate](https://github.com/ismatfarjana/academic_documents/blob/main/Certificate_Diploma_of_Information_Technology%20copy.pdf)
-
-
-
----
 
 ### Year 12 equivalent
 #### H.S.C. 
